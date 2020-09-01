@@ -1,6 +1,4 @@
-### Hi World. I'm Alex 👋
-
-<hr />
+## Hi World. I'm Alex 👋
 
 <a href="mailto:alexmix3000@gmail.com">
   <img align="left" alt="Alex's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gmail.svg" />
