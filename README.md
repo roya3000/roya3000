@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/alexander-mykolaichuk/">
   <img align="left" alt="Alex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/roya3000">
+<a href="https://github.com/almmiko">
   <img align="left" alt="Alex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
